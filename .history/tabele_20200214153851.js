@@ -1,0 +1,3 @@
+
+tabel
+default export { tabela }

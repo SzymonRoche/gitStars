@@ -1,0 +1,6 @@
+const stars = []
+
+
+
+
+export { stars }; 

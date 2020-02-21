@@ -1,0 +1,11 @@
+.app{
+    background-color: dimgray;
+    width: 900px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+
+.title{
+    margin: 50px 0;
+}

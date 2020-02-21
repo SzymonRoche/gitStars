@@ -1,0 +1,4 @@
+
+tab
+
+default export { tabela }

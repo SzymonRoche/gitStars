@@ -1,0 +1,4 @@
+
+const starts = []
+
+export stars 
