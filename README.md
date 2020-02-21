@@ -1,4 +1,4 @@
-# FrontEndRecrutation repository was migrated to internal Bitbucket. To get access please contact with Roche DevTools Support
+# Display this site! https://awesome-newton-b849ff.netlify.com
 
 App runner: npm run start
 
